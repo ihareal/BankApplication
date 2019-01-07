@@ -1,0 +1,121 @@
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Serializer.exe
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Serializer.pdb
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\Bunifu.Core.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.Form1.resources
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.csproj.GenerateResource.cache
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.exe
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.pdb
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.pdb
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.xml
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ANDREY\source\repos\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ANDREY\source\repos\Serializer\Serializer\obj\Debug\Serializer.csprojResolveAssemblyReference.cache
+D:\Serializer\Serializer\bin\Debug\Serializer.exe.config
+D:\Serializer\Serializer\bin\Debug\Serializer.exe
+D:\Serializer\Serializer\bin\Debug\Serializer.pdb
+D:\Serializer\Serializer\bin\Debug\LiveCharts.dll
+D:\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.dll
+D:\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.dll
+D:\Serializer\Serializer\bin\Debug\Bunifu.Core.dll
+D:\Serializer\Serializer\bin\Debug\LiveCharts.pdb
+D:\Serializer\Serializer\bin\Debug\LiveCharts.xml
+D:\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.pdb
+D:\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.xml
+D:\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.pdb
+D:\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.xml
+D:\Serializer\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+D:\Serializer\Serializer\obj\Debug\Serializer.Form1.resources
+D:\Serializer\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+D:\Serializer\Serializer\obj\Debug\Serializer.csproj.GenerateResource.cache
+D:\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+D:\Serializer\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+D:\Serializer\Serializer\obj\Debug\Serializer.exe
+D:\Serializer\Serializer\obj\Debug\Serializer.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Serializer.exe
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Serializer.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.dll
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Bunifu.Core.dll
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.xml
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.Form1.resources
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.csproj.GenerateResource.cache
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.exe
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\obj\Debug\Serializer.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dekol\Desktop\Новая папка\Serializer\Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Serializer.exe
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Serializer.pdb
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.dll
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Bunifu.Core.dll
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.pdb
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.xml
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dekol\Serializer\Serializer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dekol\Serializer\Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.Form1.resources
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.csproj.GenerateResource.cache
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.exe
+C:\Users\dekol\Serializer\Serializer\obj\Debug\Serializer.pdb
+D:\Serializer\Serializer\bin\Debug\Newtonsoft.Json.dll
+D:\Serializer\Serializer\bin\Debug\Newtonsoft.Json.pdb
+D:\Serializer\Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Serializer.exe.config
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Serializer.exe
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Serializer.pdb
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.dll
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Bunifu.Core.dll
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.pdb
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.xml
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dekol\Desktop\Serializer-master\Serializer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.csprojAssemblyReference.cache
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.Form1.resources
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.Properties.Resources.resources
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.csproj.GenerateResource.cache
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.csproj.CoreCompileInputs.cache
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.csproj.CopyComplete
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.exe
+C:\Users\dekol\Desktop\Serializer-master\Serializer\obj\Debug\Serializer.pdb
